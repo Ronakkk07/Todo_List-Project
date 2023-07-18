@@ -1,0 +1,17 @@
+h4{
+    font-weight: 700;
+    margin-top: 40px;
+    text-decoration: underline;
+    color: #dc3545;
+}
+
+#btn-hover{
+    background-color: #dc3545;
+    color: white;
+    border-color: #dc3545;
+}
+
+#btn-hover:hover{
+    background-color: #d21c2e;
+    border-color: #d21c2e;
+}

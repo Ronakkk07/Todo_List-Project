@@ -1,0 +1,13 @@
+span{
+    font-weight: 500;
+    color: #dc3545;
+}
+
+#btn-hover{
+    font-weight: 300;
+}
+
+#btn-hover:hover{
+    color: #dc3545;
+    transition: 0.2s ease;
+}
